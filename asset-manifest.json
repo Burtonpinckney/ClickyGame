@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ClickyGame/static/css/main.0f8fdfce.chunk.css",
+    "main.js": "/ClickyGame/static/js/main.559b3b8a.chunk.js",
+    "main.js.map": "/ClickyGame/static/js/main.559b3b8a.chunk.js.map",
+    "runtime~main.js": "/ClickyGame/static/js/runtime~main.2d8f2f60.js",
+    "runtime~main.js.map": "/ClickyGame/static/js/runtime~main.2d8f2f60.js.map",
+    "static/js/2.9b4104ab.chunk.js": "/ClickyGame/static/js/2.9b4104ab.chunk.js",
+    "static/js/2.9b4104ab.chunk.js.map": "/ClickyGame/static/js/2.9b4104ab.chunk.js.map",
+    "index.html": "/ClickyGame/index.html",
+    "precache-manifest.c614da4650336c57cf811bb4aa8247b6.js": "/ClickyGame/precache-manifest.c614da4650336c57cf811bb4aa8247b6.js",
+    "service-worker.js": "/ClickyGame/service-worker.js",
+    "static/css/main.0f8fdfce.chunk.css.map": "/ClickyGame/static/css/main.0f8fdfce.chunk.css.map",
+    "static/media/clemsonmascot.jpg": "/ClickyGame/static/media/clemsonmascot.81174006.jpg",
+    "static/media/ecumascot.jpg": "/ClickyGame/static/media/ecumascot.2c40f160.jpg",
+    "static/media/floridamascot.jpg": "/ClickyGame/static/media/floridamascot.c6284dc0.jpg",
+    "static/media/georgiamascot.jpg": "/ClickyGame/static/media/georgiamascot.46cd97e0.jpg",
+    "static/media/lsumascot.jpg": "/ClickyGame/static/media/lsumascot.0fabe27e.jpg",
+    "static/media/ncstatemascot.jpg": "/ClickyGame/static/media/ncstatemascot.9af4b165.jpg",
+    "static/media/scmascot.jpg": "/ClickyGame/static/media/scmascot.4f4af9e6.jpg",
+    "static/media/tennesseemascot.jpg": "/ClickyGame/static/media/tennesseemascot.c0defacb.jpg",
+    "static/media/wfmascot.jpg": "/ClickyGame/static/media/wfmascot.d0fe7d44.jpg"
+  }
+}
