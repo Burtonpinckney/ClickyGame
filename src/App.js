@@ -83,7 +83,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <h1>Clicky Game!</h1>
-          <h2>Instructions: Click on each team without clicking any twice</h2>
+          <h2>Instructions: Click on each team without clicking any twice.</h2>
           <h2>Top Score: {this.state.topScore}</h2>
           <h2>Score: {this.state.score}</h2>
           <div>
